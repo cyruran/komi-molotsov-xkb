@@ -1,4 +1,4 @@
-// Keyboard layout for komi language molodtsov language
+// Keyboard layout for komi language molodtsov alphabet
 
 default  partial alphanumeric_keys
 xkb_symbols "molodtsov" {
